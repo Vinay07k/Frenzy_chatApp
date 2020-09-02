@@ -1,6 +1,6 @@
-# Frenzy_chatApp\n
+# Frenzy_chatApp
 
-A fully working Chat App made with flutter.
+##A fully working Chat App made with flutter:
 
 Features Included ✅
 • Sign In & Sign up with Firebase Authentication
