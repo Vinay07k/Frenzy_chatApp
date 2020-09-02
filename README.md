@@ -1,8 +1,8 @@
-# Frenzy_chatApp
+# Frenzy_chatApp\n
 
-A fully working Chat App made with flutter
-Features Included ✅
-• Sign In & Sign up with Firebase Authentication
-• Forget Password
-• Google SignIn 
-• Send text message with real time chat with Firebase Firestore
+A fully working Chat App made with flutter\n
+Features Included ✅\n
+• Sign In & Sign up with Firebase Authentication\n
+• Forget Password\n
+• Google SignIn\n 
+• Send text message with real time chat with Firebase Firestore\n
